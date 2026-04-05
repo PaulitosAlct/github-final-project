@@ -13,3 +13,5 @@ A calculator that calculates simple interest given principal, annual rate of int
 ```python
   * simple interest = p*t*r/100
 ```
+
+Made by PaulitosAlct
